@@ -1,5 +1,5 @@
-Welcome to the EPIC Suite documentation!
-========================================
+Welcome to the EPIC Suite documentation
+=======================================
 
 This is a collection of tools, algorithms and viewers for genomics data, created by the EPIC project at Los Alamos National Laboratory.
 
