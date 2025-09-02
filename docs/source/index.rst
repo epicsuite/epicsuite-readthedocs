@@ -8,10 +8,6 @@ Broad knowledge of epigenetic regulation of host-pathogen interactions would gre
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
 
